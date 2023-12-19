@@ -1,2 +1,2 @@
-# libry
-libry
+# library
+library
